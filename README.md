@@ -243,7 +243,7 @@ Therefore, the dashboard should be used to identify patterns and areas for furth
 ```
 ├── Laziness_Analysis.pbix        # Power BI dashboard file
 ├── dataset/
-│   └── employee_activity.csv     # Source dataset (200 records)
+│   └── Laziness_Analysis_200_Records.csv     # Source dataset (200 records)
 ├── screenshots/
 │   └── dashboard_overview.png    # Dashboard preview images
 └── README.md                     # Project documentation
